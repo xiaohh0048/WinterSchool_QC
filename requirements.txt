@@ -1,0 +1,9 @@
+tensorcircuit-ng
+tensorflow
+cotengra
+jax
+qiskit
+matplotlib
+pylatexenc
+jupyter
+black[jupyter]
