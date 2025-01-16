@@ -35,3 +35,10 @@ jupyter notebook
 ```
 
 To make a pull request, please first ensure formatting the notebooks locally by running `black .`
+
+## open in Google Colab
+
+* [0_qc_ingredients.ipynb](https://colab.research.google.com/github/xiaohh0048/WinterSchool_QC/blob/main/lectures/0_qc_ingredients.ipynb)
+* [1_qc_algorithms.ipynb](https://colab.research.google.com/github/xiaohh0048/WinterSchool_QC/blob/main/lectures/1_qc_algorithms.ipynb)
+* [2_qc_nisq.ipynb](https://colab.research.google.com/github/xiaohh0048/WinterSchool_QC/blob/main/lectures/2_qc_nisq.ipynb)
+* [3_qc_error.ipynb](https://colab.research.google.com/github/xiaohh0048/WinterSchool_QC/blob/main/lectures/3_qc_error.ipynb)
